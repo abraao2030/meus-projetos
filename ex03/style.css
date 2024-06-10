@@ -1,0 +1,42 @@
+
+* {
+    text-align: center;
+   
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #7785AC;
+    
+    
+}
+h1 {
+    color: #360568;
+
+}
+table {
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+th, td {
+    border: 1px solid rgba(112, 60, 60, 0.123);
+    padding: 5px;
+    text-align: center;
+    color: #5B2A86;
+}
+th { /*Cabeçalho da tabela*/
+    background-color: #9AC6C5;
+    
+    
+}
+td {/*(td) Cria células dentro da linha*/
+    background-color: #a5e6ba9c;
+}
+input {
+    border-radius: 10px;
+    height: 20px;
+    width: 80px;
+    text-align: center;
+    font: normal bolder 1em Arial ;
+}
