@@ -12,3 +12,5 @@
 <a href="https://abraao2030.github.io/meus-projetos/ex07/index.html" target="_blank"> ex07  [Minhas 3 redes sociais]</a> <br>
 
 <a href="https://abraao2030.github.io/meus-projetos/ex08/index.html" target="_blank"> ex08  [Todas redes sociais]</a> <br>
+
+<a href="https://abraao2030.github.io/meus-projetos/ex09/index.html" target="_blank"> ex09  [Botão Voltar ao Topo]</a> <br>
