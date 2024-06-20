@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #025bee;
+  background-color: #30323D;
 }
 .wrapper {
   background-color: #ffffff;
@@ -22,6 +22,7 @@ img {
   display: block;
   width: 80%;
   margin: auto;
+  border-radius: 20px;
 }
 .btns-container {
   display: grid;
@@ -42,12 +43,16 @@ label,
 button {
   display: block;
   font-size: 1.1em;
-  background-color: #025bee;
-  color: #ffffff;
+  background-color: #5C80BC;
+  color: #CDD1C4;
   text-align: center;
   padding: 0.8em 0;
   border-radius: 0.3em;
   cursor: pointer;
+}
+
+ button:hover {
+  color: #440817;
 }
 #result {
   /* display: grid; */
