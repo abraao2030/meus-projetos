@@ -1,16 +1,16 @@
 # meus-projetos
  **Projetos** *baixados* para estudo...
 
-<a href="https://abraao2030.github.io/meus-projetos/ex01/index02.html" target="_blank"> ex01  [Despeza mensal / anual]</a> <br>
+1. <a href="https://abraao2030.github.io/meus-projetos/ex01/index02.html" target="_blank"> ex01  [Despeza mensal / anual]</a> <br>
 
-<a href="https://abraao2030.github.io/meus-projetos/ex03/index03.html" target="_blank"> ex03  [Gastos anuais incompleto]</a> <br>
+2. <a href="https://abraao2030.github.io/meus-projetos/ex03/index03.html" target="_blank"> ex03  [Gastos anuais incompleto]</a> <br>
 
-<a href="https://abraao2030.github.io/meus-projetos/ex04/index.html" target="_blank"> ex04  [Calendario em português]</a> <br>
+3. <a href="https://abraao2030.github.io/meus-projetos/ex04/index.html" target="_blank"> ex04  [Calendario em português]</a> <br>
 
-<a href="https://abraao2030.github.io/meus-projetos/ex05/index.html" target="_blank"> ex05  [Calendaro em ingles]</a> <br>
+4. <a href="https://abraao2030.github.io/meus-projetos/ex05/index.html" target="_blank"> ex05  [Calendaro em ingles]</a> <br>
 
-<a href="https://abraao2030.github.io/meus-projetos/ex07/index.html" target="_blank"> ex07  [Minhas 3 redes sociais]</a> <br>
+5. <a href="https://abraao2030.github.io/meus-projetos/ex07/index.html" target="_blank"> ex07  [Minhas 3 redes sociais]</a> <br>
 
-<a href="https://abraao2030.github.io/meus-projetos/ex08/index.html" target="_blank"> ex08  [Todas redes sociais]</a> <br>
+6. <a href="https://abraao2030.github.io/meus-projetos/ex08/index.html" target="_blank"> ex08  **_[Todas redes sociais]**_</a> <br>
 
-<a href="https://abraao2030.github.io/meus-projetos/ex09/index.html" target="_blank"> ex09  [Botão Voltar ao Topo]</a> <br>
+7. <a href="https://abraao2030.github.io/meus-projetos/ex09/index.html" target="_blank"> ex09  **_[Botão Voltar ao Topo]**_</a> <br>
